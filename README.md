@@ -12,6 +12,7 @@ It comes with the following NPM packages built-in...
 + [Redux](https://redux.js.org/) ([redux](https://github.com/reduxjs/redux), [react-redux](https://github.com/reduxjs/react-redux) and [redux-thunk](https://github.com/reduxjs/redux-thunk))
 + [Bootstrap](https://getbootstrap.com/) ([bootstrap](https://github.com/twbs/bootstrap), [reactstrap](https://github.com/reactstrap/reactstrap), [jquery](https://github.com/jquery/jquery), and [popper.js](https://github.com/FezVrasta/popper.js))
 + [React Spring](https://www.react-spring.io/) ([react-spring](https://github.com/react-spring/react-spring))
++ [React Anchor Link Smooth Scroll](https://github.com/mauricevancooten/react-anchor-link-smooth-scroll)
 
 ## Cool! Anything else?
 Yes, my friend! I have also set up the sass development environment as well*. It imports all of Bootstrap's components separately, so you can comment out the ones you don't need.  Take a look at the app.scss file in the src directory.  Just run `npm start` and it'll automatically watch for changes in that sass file and compile them.
